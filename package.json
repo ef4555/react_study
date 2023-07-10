@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "https://github.com/ef4555/react_study.git",
   "author": "ef4555 <chldpgns9806@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "react-router-dom": "^6.14.1",
+    "styled-components": "^6.0.3"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.26",
+    "babel-plugin-styled-components": "^2.1.4",
+    "gh-pages": "^5.0.0"
+  }
 }
